@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ![avatar](/images/SW.png)
+  avatar           : ![Professor Simon Wilkinson](/images/SW.png)
   name             : "Professor Simon Wilkinson"
   pronouns         : # example: "she/her"  
   bio              : "CRUK Senior Fellow. Chair of Autophagy and Tissue Homeostasis."
