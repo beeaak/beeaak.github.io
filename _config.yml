@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Wilkinson Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,22 +22,24 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "SW.png"
+  name             : "Professor Simon Wilkinson"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "CRUK Senior Fellow. Chair of Autophagy and Tissue Homeostasis. Simon Wilkinson studied at University of Edinburgh from 1996, gaining a 1st class degree in Biochemistry. In late 2000, he moved to the Institute of Cancer Research in London, to study for his doctorate in the Cancer Research UK Tumour Cell Signalling Unit, under the supervision of Prof. Chris Marshall. His work here investigated the different signalling requirements of diverse tumour cell types for motility and invasion. In the course of this work he became very interested in the different mechanisms by which tumour cells engage protein kinase signalling pathways.
+
+In 2005, Simon joined the Beatson Institute for Cancer Research as a postdoctoral scientist. Here, working with Prof. Kevin Ryan, he became interested in autophagy in cancer and worked on the identification of an ‘autophagy kinome’ - a set of protein kinases that engaged various different forms of autophagy. In 2010, Simon moved back to Edinburgh to work with Prof. Margaret Frame looking at the interplay between autophagy and cell signalling, focussing on Src kinase. In 2012, he was awarded a prestigious Career Development Fellowship from Cancer Research UK in order to establish his own laboratory in Edinburgh. After the award of a Cancer Research UK Senior Fellowship in 2020, his lab now studies the interplay between intracellular membrane dynamics - particularly membrane modification by ubiquitin-like proteins and the autophagy pathway - and cell signalling during cancer development and treatment, focussing on processes such as control of gene expression, cellular identity, inflammation and anti-tumoural immunity. Simon was appointed the Chair of Autophagy and Tissue Homeostasis in the autumn of 2023."
+  location         : "Cancer Research UK Edinburgh Centre"
+  employer         : "University of Edinburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s.wilkinson@ed.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=XubuivEAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1082-8218"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=simon+wilkinson"
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +52,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
