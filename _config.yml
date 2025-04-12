@@ -25,9 +25,7 @@ author:
   avatar           : "![Lab Group](SW.jpg)"
   name             : "Professor Simon Wilkinson"
   pronouns         : # example: "she/her"  
-  bio              : "CRUK Senior Fellow. Chair of Autophagy and Tissue Homeostasis. Simon Wilkinson studied at University of Edinburgh from 1996, gaining a 1st class degree in Biochemistry. In late 2000, he moved to the Institute of Cancer Research in London, to study for his doctorate in the Cancer Research UK Tumour Cell Signalling Unit, under the supervision of Prof. Chris Marshall. His work here investigated the different signalling requirements of diverse tumour cell types for motility and invasion. In the course of this work he became very interested in the different mechanisms by which tumour cells engage protein kinase signalling pathways.
-
-In 2005, Simon joined the Beatson Institute for Cancer Research as a postdoctoral scientist. Here, working with Prof. Kevin Ryan, he became interested in autophagy in cancer and worked on the identification of an ‘autophagy kinome’ - a set of protein kinases that engaged various different forms of autophagy. In 2010, Simon moved back to Edinburgh to work with Prof. Margaret Frame looking at the interplay between autophagy and cell signalling, focussing on Src kinase. In 2012, he was awarded a prestigious Career Development Fellowship from Cancer Research UK in order to establish his own laboratory in Edinburgh. After the award of a Cancer Research UK Senior Fellowship in 2020, his lab now studies the interplay between intracellular membrane dynamics - particularly membrane modification by ubiquitin-like proteins and the autophagy pathway - and cell signalling during cancer development and treatment, focussing on processes such as control of gene expression, cellular identity, inflammation and anti-tumoural immunity. Simon was appointed the Chair of Autophagy and Tissue Homeostasis in the autumn of 2023."
+  bio              : "CRUK Senior Fellow. Chair of Autophagy and Tissue Homeostasis."
   location         : "Cancer Research UK Edinburgh Centre"
   employer         : "University of Edinburgh"
   uri              : # URL
